@@ -1,0 +1,13 @@
+table{
+    align-content: center;
+    table-layout: auto;
+}
+
+th{
+background-color: crimson;
+color: cornsilk;
+}
+
+tr{
+    background-color: darkgray;
+}
