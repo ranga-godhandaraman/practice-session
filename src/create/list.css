@@ -1,0 +1,15 @@
+table{
+    width: 100%;
+}
+
+th{
+    background-color: blueviolet;
+    padding: 5px;
+    color: white;
+}
+
+td{
+    background-color: cornsilk;
+    padding: 5px;
+    
+}
